@@ -44,3 +44,6 @@ JavaScript permite que la página responda a las acciones del usuario, por ejemp
 
 Ejemplo: mostrar un mensaje cuando una persona quiera alquilar una bicicleta.
 alert("¡Gracias por elegir Rueda Libre!");
+
+
+
