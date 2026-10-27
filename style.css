@@ -37,4 +37,13 @@
     opacity: 50%;
 
 }
+.tabla-tarifas {
+    border-collapse: collapse;
+    border: 1px solid black;
+}
 
+.tabla-tarifas th,
+.tabla-tarifas td {
+    border: 1px solid black;
+    padding: 8px;
+}
