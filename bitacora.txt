@@ -46,4 +46,30 @@ Ejemplo: mostrar un mensaje cuando una persona quiera alquilar una bicicleta.
 alert("¡Gracias por elegir Rueda Libre!");
 
 
+TALLER FLEXBOX - RUEDA LIBRE
+
+Cambios:
+- Encabezado distribuido con Flexbox.
+- Menú con separación uniforme usando gap.
+- Enlaces con flex-wrap para adaptarse al espacio.
+- Pie de página organizado en tres bloques.
+- CSS compartido en css/styles.css.
+
+Pruebas de pantalla:
+
+Pantalla ancha:
+El nombre del negocio queda a un extremo y el menú al otro.
+El pie muestra tres bloques en fila.
+
+Pantalla mediana:
+Observar si el menú pasa a otra línea cuando falta espacio.
+Observar si los bloques del pie se reorganizan.
+
+Pantalla estrecha:
+El encabezado se organiza en columna.
+El pie de página muestra los bloques uno debajo del otro.
+
+Resultado real de las pruebas:
+[Escribir aquí lo observado en el navegador]
+
 
