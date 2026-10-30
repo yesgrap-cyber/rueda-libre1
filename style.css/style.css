@@ -459,3 +459,32 @@ footer {
 @media (prefers-reduced-motion: reduce) {
     * { transition: none !important; }
 }
+body {
+    font-family: Arial, sans-serif;
+    background-color: white;
+}
+.navbar {
+    background-color: #ffeb00;
+}
+.portada {
+    background-color: #fff58a;
+    padding: 60px 20px;
+    text-align: center;
+}
+.btn-amarillo {
+    background-color: #ffeb00;
+    color: black;
+    border: 1px solid black;
+}
+.btn-amarillo:hover {
+    background-color: #fff58a;
+    color: black;
+}
+.card {
+    border: 1px solid black;
+}
+footer {
+    background-color: #ffeb00;
+    padding: 25px;
+    text-align: center;
+}
